@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChemicalReactioni", "ChemicalReactioni\ChemicalReactioni.csproj", "{1881D63B-1753-45B3-911F-0CEC08232487}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ChemicalReactionModeling", "ChemicalReactionModeling\ChemicalReactionModeling.vdproj", "{1725C76C-C0A9-48F3-AE00-5C745BDAC5C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1881D63B-1753-45B3-911F-0CEC08232487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1881D63B-1753-45B3-911F-0CEC08232487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1881D63B-1753-45B3-911F-0CEC08232487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1881D63B-1753-45B3-911F-0CEC08232487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1725C76C-C0A9-48F3-AE00-5C745BDAC5C4}.Debug|Any CPU.ActiveCfg = Debug
+		{1725C76C-C0A9-48F3-AE00-5C745BDAC5C4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FFBE7C5-00B7-4CB0-BA9B-44E96AA94739}
+	EndGlobalSection
+EndGlobal
